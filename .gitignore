@@ -1,0 +1,5 @@
+node_modules/
+
+## god damn temp files
+*.swp
+*.swo

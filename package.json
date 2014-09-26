@@ -1,0 +1,21 @@
+{
+  "name": "wow.js",
+  "version": "0.0.0",
+  "description": "WoW client in your browser. Sure, why not?",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rfate/wow.js"
+  },
+  "bugs": {
+    "url": "https://github.com/rfate/wow.js/issues"
+  },
+  "homepage": "https://github.com/rfate/wow.js",
+  "dependencies": {
+    "express": "~4.9.5",
+    "ws": "~0.4.32"
+  }
+}
